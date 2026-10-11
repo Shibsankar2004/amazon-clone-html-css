@@ -1,35 +1,39 @@
-Amazon Clone
+#### Amazon Clone #####
 A responsive Amazon homepage clone built using HTML and CSS.
 
-🚀 Features
-Responsive Navigation Bar
-Search Box
-Delivery Location Section
-Hero Banner Section
-Product Cards/Grid Layout
-Footer Section
-Font Awesome Icons
-Clean UI Design
-🛠️ Technologies Used
-HTML5
-CSS3
+## Features
+Responsive Navigation Bar,
+Search Box,
+Delivery Location Section,
+Hero Banner Section,
+Product Cards/Grid Layout,
+Footer Section,
+Font Awesome Icons,
+Clean UI Design.
+
+## Technologies Used
+
+HTML,
+CSS.
 Font Awesome
-📂 Project Structure
+## Project Structure
 amazon-clone-html-css/
+
 │
 ├── index.html
 ├── style.css
 ├── hero-ima.jpg
 ├── logo amazon.png
 └── assets/
-📸 Preview
+
+## Preview
 Amazon-inspired homepage with:
 
-Navigation Bar
-Product Categories
-Hero Section
+Navigation Bar,
+Product Categories,
+Hero Section,
 Footer
-🎯 Learning Outcomes
+ Learning Outcomes
 This project helped me practice:
 
 HTML Layout Design
